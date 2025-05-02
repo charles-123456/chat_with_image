@@ -3,3 +3,4 @@ cohere
 pillow
 numpy
 streamlit
+python-dotenv
