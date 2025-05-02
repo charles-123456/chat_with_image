@@ -1,0 +1,5 @@
+google-genai
+cohere
+pillow
+numpy
+streamlit
